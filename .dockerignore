@@ -1,5 +1,8 @@
-passphrase.txt
-logs/
-.git
+node_modules/
+test/
+.github/
 *.md
-.cache
+*.yml
+.editorconfig
+.gitignore
+LICENSE
